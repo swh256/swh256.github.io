@@ -1,0 +1,16 @@
+title: Weihong Sheng
+logo: /assets/img/photo.png
+description: All grown-ups were once children… but only few of them remember it
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+
+contact:
+  scholar: "https://scholar.google.com/citations?user=G2b2wuIAAAAJ&hl=en"
+  github: "https://github.com/swh256"
+  email: "shengwe [at] iu.edu"
+  location: "0000 Luddy Hall, Bloomington, IN 47408"
+
+github:
+      is_project_page: false
+      another_url: another value

@@ -1,0 +1,15 @@
+---
+---
+.wrapper p,
+.wrapper ul,
+.wrapper ul li {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* 扩展正文内容宽度 */
+.wrapper > section {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+@import "jekyll-theme-minimal";
