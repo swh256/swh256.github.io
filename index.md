@@ -48,7 +48,7 @@ My research interests lie in data privacy and security. In the past, I worked on
 
 
 ### Journals
-<!-- J5. TCC 2025 -->
+<!-- J6. TCC 2025 -->
 <div class="publication-card">
   <div class="pub-left">
     <div class="pub-badge journal">TCC'25</div>
@@ -62,7 +62,7 @@ My research interests lie in data privacy and security. In the past, I worked on
   </div>
 </div>
 
-<!-- J4. TNSM 2025 -->
+<!-- J5. TNSM 2025 -->
 <div class="publication-card">
   <div class="pub-left">
     <div class="pub-badge journal">TNSM'25</div>
@@ -76,7 +76,7 @@ My research interests lie in data privacy and security. In the past, I worked on
   </div>
 </div>
 
-<!-- J3. TIFS 2025 -->
+<!-- J4. TIFS 2025 -->
 <div class="publication-card">
   <div class="pub-left">
     <div class="pub-badge journal">TIFS'25</div>
@@ -88,6 +88,20 @@ My research interests lie in data privacy and security. In the past, I worked on
     <em>IEEE Transactions on Information Forensics & Security, 2025.</em><br>
     <a href="https://ieeexplore.ieee.org/document/10926530" title="PDF" target="_blank"><i class="fas fa-file-pdf pub-icon pdf"></i></a>
     <!-- <a href="https://github.com/yourname/tifs2025-code" title="Code" target="_blank"><i class="fas fa-code pub-icon code"></i></a> -->
+  </div>
+</div>
+
+<!-- J3. 投稿中 -->
+<div class="publication-card">
+  <div class="pub-left">
+    <div class="pub-badge preprint">Preprint</div>
+    <!-- <img src="assets/paper1-cover.jpg" alt="Paper Cover"> -->
+  </div>
+  <div class="pub-content">
+    <strong>Local Distance Query with Differential Privacy</strong><br>
+    <em><u>Weihong Sheng</u>, Jiajun Chen, Bin Cai, et al.</em><br>
+    <em>Manuscript in preparation, 2024.</em><br>
+    <a href="https://arxiv.org/abs/2508.05518" title="PDF" target="_blank"><i class="fas fa-file-pdf pub-icon pdf"></i></a>
   </div>
 </div>
 
