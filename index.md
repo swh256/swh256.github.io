@@ -114,7 +114,7 @@ My research interests lie in data privacy and security. In the past, I worked on
   <div class="pub-content">
     <strong>Differentially Private Distance Query with Asymmetric Noise</strong><br>
     <em><u>Weihong Sheng</u>, Bin Cai, Chunqiang Hu, et al.</em><br>
-    <em>Manuscript in preparation, 2024.</em><br>
+    <em>Manuscript in preparation, 2023.</em><br>
     <a href="https://arxiv.org/abs/2501.07955" title="PDF" target="_blank"><i class="fas fa-file-pdf pub-icon pdf"></i></a>
   </div>
 </div>
